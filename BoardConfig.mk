@@ -5,7 +5,7 @@
 #
 
 # Inherit from the proprietary version
-include vendor/xiaomi/miuicamera-condrian/BoardConfigVendor.mk
+include vendor/xiaomi/miuicamera-mondrian/BoardConfigVendor.mk
 
 MIUICAMERA_PATH := device/xiaomi/miuicamera-mondrian
 
